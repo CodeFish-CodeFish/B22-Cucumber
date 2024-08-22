@@ -12,3 +12,5 @@ Feature: Contact us form
     When user is on contact us page user validates contact us header
     Then user validates get in touch text
     And user validates feedback for us text
+
+
