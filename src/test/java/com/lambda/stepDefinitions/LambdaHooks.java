@@ -1,13 +1,11 @@
-package com.bases;
+package com.lambda.stepDefinitions;
 
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
 import org.openqa.selenium.WebDriver;
-import utils.ConfigReader;
 import utils.DriverHelper;
 
-public class Hooks {
-
+public class LambdaHooks {
 
     public WebDriver driver;
 
