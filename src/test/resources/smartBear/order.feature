@@ -25,3 +25,4 @@ Feature: smart bear order functionality
       | Tester   | test     | Web Orders | ScreenSaver | 100      | Thomas Shelby | Pike st     | London  | Alabama    | 60659   | 434343434343 | 12/28      |
       | Tester   | test     | Web Orders | FamilyAlbum | 90       | Jackie Chan   | Michigan st | Chicago | Illinois   | 60659   | 434343434343 | 12/28      |
       | Tester   | test     | Web Orders | ScreenSaver | 10       | Bruce Lee     | Dearborn    | Seattle | Washington | 60659   | 434343434343 | 12/28      |
+      | Tester   | test     | Web Orders | ScreenSaver | 10       | Bruce Lee     | Dearborn    | Seattle | Washington | 60659   | 434343434343 | 12/28      |
